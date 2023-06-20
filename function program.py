@@ -14,4 +14,4 @@ def demo(a,b):
     print(a,b)
 p=input("enter value")
 q=input("enter value")
-demo(p,q)     
+demo(p,q)  
